@@ -8,5 +8,3 @@ Download the latest version from the
 MacPurge updates itself from here once installed.
 
 This repository holds release files only; the source is private.
-
-An axiomstudio product. Built by Axiom Studio.
